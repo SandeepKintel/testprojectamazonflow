@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Testcase is Passed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-05-08T20:41:49 IST" name="Default suite" finished-at="2025-05-08T20:42:19 IST" duration-ms="29234">
+    <groups>
+    </groups>
+    <test started-at="2025-05-08T20:41:49 IST" name="Default test" finished-at="2025-05-08T20:42:19 IST" duration-ms="29234">
+      <class name="TestProjPack.TestProj.TestAmazonFlow">
+        <test-method is-config="true" signature="LaunchAmazon()[pri:0, instance:TestProjPack.TestProj.TestAmazonFlow@4b0d79fc]" started-at="2025-05-08T20:41:49 IST" name="LaunchAmazon" finished-at="2025-05-08T20:41:55 IST" duration-ms="5840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchAmazon -->
+        <test-method signature="TestCompFlow()[pri:0, instance:TestProjPack.TestProj.TestAmazonFlow@4b0d79fc]" started-at="2025-05-08T20:41:55 IST" name="TestCompFlow" finished-at="2025-05-08T20:42:18 IST" duration-ms="22916" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase is Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestCompFlow -->
+        <test-method is-config="true" signature="QuitAmazon()[pri:0, instance:TestProjPack.TestProj.TestAmazonFlow@4b0d79fc]" started-at="2025-05-08T20:42:19 IST" name="QuitAmazon" finished-at="2025-05-08T20:42:19 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitAmazon -->
+      </class> <!-- TestProjPack.TestProj.TestAmazonFlow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
